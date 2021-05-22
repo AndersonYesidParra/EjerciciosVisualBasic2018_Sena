@@ -1,0 +1,12 @@
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\bin\Debug\PUNTO2.exe.config
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\bin\Debug\PUNTO2.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\bin\Debug\PUNTO2.pdb
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\bin\Debug\PUNTO2.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\obj\Debug\PUNTO2.vbprojAssemblyReference.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\obj\Debug\PUNTO2.Form1.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\obj\Debug\PUNTO2.Resources.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\obj\Debug\PUNTO2.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\obj\Debug\PUNTO2.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\obj\Debug\PUNTO2.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\obj\Debug\PUNTO2.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO2\obj\Debug\PUNTO2.pdb

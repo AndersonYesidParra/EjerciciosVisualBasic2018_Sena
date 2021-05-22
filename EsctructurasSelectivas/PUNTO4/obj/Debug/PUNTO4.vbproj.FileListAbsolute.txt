@@ -1,0 +1,12 @@
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\bin\Debug\PUNTO4.exe.config
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\bin\Debug\PUNTO4.exe
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\bin\Debug\PUNTO4.pdb
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\bin\Debug\PUNTO4.xml
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\obj\Debug\PUNTO4.Form1.resources
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\obj\Debug\PUNTO4.Resources.resources
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\obj\Debug\PUNTO4.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\obj\Debug\PUNTO4.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\obj\Debug\PUNTO4.exe
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\obj\Debug\PUNTO4.xml
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\obj\Debug\PUNTO4.pdb
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO4\obj\Debug\PUNTO4.vbprojAssemblyReference.cache

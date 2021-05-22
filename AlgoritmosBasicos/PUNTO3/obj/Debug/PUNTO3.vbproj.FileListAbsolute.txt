@@ -1,0 +1,12 @@
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\bin\Debug\PUNTO3.exe.config
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\bin\Debug\PUNTO3.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\bin\Debug\PUNTO3.pdb
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\bin\Debug\PUNTO3.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\obj\Debug\PUNTO3.vbprojAssemblyReference.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\obj\Debug\PUNTO3.Form1.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\obj\Debug\PUNTO3.Resources.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\obj\Debug\PUNTO3.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\obj\Debug\PUNTO3.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\obj\Debug\PUNTO3.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\obj\Debug\PUNTO3.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO3\obj\Debug\PUNTO3.pdb

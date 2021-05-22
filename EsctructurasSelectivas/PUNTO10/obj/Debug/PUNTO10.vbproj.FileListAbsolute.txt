@@ -1,0 +1,11 @@
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\bin\Debug\PUNTO10.exe.config
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\bin\Debug\PUNTO10.exe
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\bin\Debug\PUNTO10.pdb
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\bin\Debug\PUNTO10.xml
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\obj\Debug\PUNTO10.Form1.resources
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\obj\Debug\PUNTO10.Resources.resources
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\obj\Debug\PUNTO10.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\obj\Debug\PUNTO10.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\obj\Debug\PUNTO10.exe
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\obj\Debug\PUNTO10.xml
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO10\obj\Debug\PUNTO10.pdb

@@ -1,0 +1,11 @@
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\bin\Debug\PUNTO19.exe.config
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\bin\Debug\PUNTO19.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\bin\Debug\PUNTO19.pdb
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\bin\Debug\PUNTO19.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\obj\Debug\PUNTO19.Form1.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\obj\Debug\PUNTO19.Resources.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\obj\Debug\PUNTO19.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\obj\Debug\PUNTO19.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\obj\Debug\PUNTO19.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\obj\Debug\PUNTO19.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO19\obj\Debug\PUNTO19.pdb

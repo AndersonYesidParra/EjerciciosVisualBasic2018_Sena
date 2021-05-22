@@ -1,0 +1,12 @@
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\obj\Debug\PUNTO5.vbprojAssemblyReference.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\obj\Debug\PUNTO5.Form1.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\obj\Debug\PUNTO5.Resources.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\obj\Debug\PUNTO5.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\obj\Debug\PUNTO5.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\bin\Debug\PUNTO5.exe.config
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\bin\Debug\PUNTO5.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\bin\Debug\PUNTO5.pdb
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\bin\Debug\PUNTO5.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\obj\Debug\PUNTO5.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\obj\Debug\PUNTO5.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO5\obj\Debug\PUNTO5.pdb

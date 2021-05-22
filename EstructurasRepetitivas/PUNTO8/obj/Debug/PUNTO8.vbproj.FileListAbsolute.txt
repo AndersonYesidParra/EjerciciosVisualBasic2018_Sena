@@ -1,0 +1,12 @@
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\bin\Debug\PUNTO8.exe.config
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\bin\Debug\PUNTO8.exe
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\bin\Debug\PUNTO8.pdb
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\bin\Debug\PUNTO8.xml
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\obj\Debug\PUNTO8.Form1.resources
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\obj\Debug\PUNTO8.Resources.resources
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\obj\Debug\PUNTO8.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\obj\Debug\PUNTO8.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\obj\Debug\PUNTO8.exe
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\obj\Debug\PUNTO8.xml
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\obj\Debug\PUNTO8.pdb
+C:\Users\parra\source\repos\EstructurasRepetitivas\PUNTO8\obj\Debug\PUNTO8.vbprojAssemblyReference.cache

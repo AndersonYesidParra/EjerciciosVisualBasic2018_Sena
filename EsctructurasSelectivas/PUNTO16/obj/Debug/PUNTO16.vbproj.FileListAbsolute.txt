@@ -1,0 +1,12 @@
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\bin\Debug\PUNTO16.exe.config
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\bin\Debug\PUNTO16.exe
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\bin\Debug\PUNTO16.pdb
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\bin\Debug\PUNTO16.xml
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\obj\Debug\PUNTO16.vbprojAssemblyReference.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\obj\Debug\PUNTO16.Form1.resources
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\obj\Debug\PUNTO16.Resources.resources
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\obj\Debug\PUNTO16.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\obj\Debug\PUNTO16.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\obj\Debug\PUNTO16.exe
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\obj\Debug\PUNTO16.xml
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO16\obj\Debug\PUNTO16.pdb

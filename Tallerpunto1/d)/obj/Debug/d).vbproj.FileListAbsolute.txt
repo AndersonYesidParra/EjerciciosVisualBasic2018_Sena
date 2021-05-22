@@ -1,0 +1,10 @@
+C:\Users\parra\source\repos\Tallerpunto1\d)\bin\Debug\d).exe.config
+C:\Users\parra\source\repos\Tallerpunto1\d)\bin\Debug\d).exe
+C:\Users\parra\source\repos\Tallerpunto1\d)\bin\Debug\d).pdb
+C:\Users\parra\source\repos\Tallerpunto1\d)\bin\Debug\d).xml
+C:\Users\parra\source\repos\Tallerpunto1\d)\obj\Debug\d_.Resources.resources
+C:\Users\parra\source\repos\Tallerpunto1\d)\obj\Debug\d).vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\Tallerpunto1\d)\obj\Debug\d).vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\Tallerpunto1\d)\obj\Debug\d).exe
+C:\Users\parra\source\repos\Tallerpunto1\d)\obj\Debug\d).xml
+C:\Users\parra\source\repos\Tallerpunto1\d)\obj\Debug\d).pdb

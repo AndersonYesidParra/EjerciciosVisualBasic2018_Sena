@@ -1,0 +1,11 @@
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\bin\Debug\PUNTO22.exe.config
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\bin\Debug\PUNTO22.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\bin\Debug\PUNTO22.pdb
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\bin\Debug\PUNTO22.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\obj\Debug\PUNTO22.Form1.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\obj\Debug\PUNTO22.Resources.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\obj\Debug\PUNTO22.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\obj\Debug\PUNTO22.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\obj\Debug\PUNTO22.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\obj\Debug\PUNTO22.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO22\obj\Debug\PUNTO22.pdb

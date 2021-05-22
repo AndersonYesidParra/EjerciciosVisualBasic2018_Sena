@@ -1,0 +1,12 @@
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\bin\Debug\EsctructurasSelectivas.exe.config
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\bin\Debug\EsctructurasSelectivas.exe
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\bin\Debug\EsctructurasSelectivas.pdb
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\bin\Debug\EsctructurasSelectivas.xml
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\obj\Debug\PUNTO1.vbprojAssemblyReference.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\obj\Debug\EsctructurasSelectivas.Form1.resources
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\obj\Debug\EsctructurasSelectivas.Resources.resources
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\obj\Debug\PUNTO1.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\obj\Debug\PUNTO1.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\obj\Debug\EsctructurasSelectivas.exe
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\obj\Debug\EsctructurasSelectivas.xml
+C:\Users\parra\source\repos\EsctructurasSelectivas\EsctructurasSelectivas\obj\Debug\EsctructurasSelectivas.pdb

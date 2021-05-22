@@ -1,0 +1,11 @@
+C:\Users\parra\source\repos\Punto(e\Punto(e\bin\Debug\Punto(e.exe.config
+C:\Users\parra\source\repos\Punto(e\Punto(e\bin\Debug\Punto(e.exe
+C:\Users\parra\source\repos\Punto(e\Punto(e\bin\Debug\Punto(e.pdb
+C:\Users\parra\source\repos\Punto(e\Punto(e\bin\Debug\Punto(e.xml
+C:\Users\parra\source\repos\Punto(e\Punto(e\obj\Debug\Punto(e.vbprojAssemblyReference.cache
+C:\Users\parra\source\repos\Punto(e\Punto(e\obj\Debug\Punto_e.Resources.resources
+C:\Users\parra\source\repos\Punto(e\Punto(e\obj\Debug\Punto(e.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\Punto(e\Punto(e\obj\Debug\Punto(e.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\Punto(e\Punto(e\obj\Debug\Punto(e.exe
+C:\Users\parra\source\repos\Punto(e\Punto(e\obj\Debug\Punto(e.xml
+C:\Users\parra\source\repos\Punto(e\Punto(e\obj\Debug\Punto(e.pdb

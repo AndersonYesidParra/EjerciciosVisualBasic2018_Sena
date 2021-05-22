@@ -1,0 +1,12 @@
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\bin\Debug\PUNTO18.exe.config
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\bin\Debug\PUNTO18.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\bin\Debug\PUNTO18.pdb
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\bin\Debug\PUNTO18.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\obj\Debug\PUNTO18.vbprojAssemblyReference.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\obj\Debug\PUNTO18.Form1.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\obj\Debug\PUNTO18.Resources.resources
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\obj\Debug\PUNTO18.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\obj\Debug\PUNTO18.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\obj\Debug\PUNTO18.exe
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\obj\Debug\PUNTO18.xml
+C:\Users\parra\source\repos\algoritmosBasicos\PUNTO18\obj\Debug\PUNTO18.pdb

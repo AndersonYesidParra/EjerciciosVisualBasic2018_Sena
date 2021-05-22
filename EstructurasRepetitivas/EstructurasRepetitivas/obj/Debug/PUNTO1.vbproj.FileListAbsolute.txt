@@ -1,0 +1,12 @@
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\bin\Debug\EstructurasRepetitivas.exe.config
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\bin\Debug\EstructurasRepetitivas.exe
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\bin\Debug\EstructurasRepetitivas.pdb
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\bin\Debug\EstructurasRepetitivas.xml
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\PUNTO1.vbprojAssemblyReference.cache
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\EstructurasRepetitivas.Form1.resources
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\EstructurasRepetitivas.Resources.resources
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\PUNTO1.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\PUNTO1.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\EstructurasRepetitivas.exe
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\EstructurasRepetitivas.xml
+C:\Users\parra\source\repos\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\EstructurasRepetitivas.pdb

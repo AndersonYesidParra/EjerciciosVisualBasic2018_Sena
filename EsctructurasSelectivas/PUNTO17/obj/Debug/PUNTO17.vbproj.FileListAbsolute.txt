@@ -1,0 +1,11 @@
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\bin\Debug\PUNTO17.exe.config
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\bin\Debug\PUNTO17.exe
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\bin\Debug\PUNTO17.pdb
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\bin\Debug\PUNTO17.xml
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\obj\Debug\PUNTO17.txtCantidad.resources
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\obj\Debug\PUNTO17.Resources.resources
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\obj\Debug\PUNTO17.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\obj\Debug\PUNTO17.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\obj\Debug\PUNTO17.exe
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\obj\Debug\PUNTO17.xml
+C:\Users\parra\source\repos\EsctructurasSelectivas\PUNTO17\obj\Debug\PUNTO17.pdb
